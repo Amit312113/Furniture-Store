@@ -1,2 +1,2 @@
 # Furniture-Store
-Furniture store project where we will contribute our code.
+An online furniture shop that allows users to check for various furniture available at the online store and purchase online. The project consists of list of furniture products displayed in various models and designs. The user may browse through these products as per categories. If the user likes a product he may add it to his shopping cart. Once user wishes to checkout he must register on the site first. He can then login using same id password next time.
